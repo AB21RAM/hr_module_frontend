@@ -1,0 +1,13 @@
+.customReportCheck{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.checkBoxDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
